@@ -1,4 +1,4 @@
-# 
+# Enhance ClickUp for Windows with secure ClickUp for Windows Module | subtasks + automation, the #1 module. Includes subtasks and automation for a smoother and more productive
 
 
 
